@@ -16,7 +16,7 @@ jobs:
             fork: xqqv5/leonwu85-bv
           - source: kkkunny/bilitv
             fork: xqqv5/bilitv
-          - source: kkkunny/bilitv
+          - source: Hyper-Beast/bilitv
             fork: xqqv5/HyperBeast-BiliTV
 
     steps:
