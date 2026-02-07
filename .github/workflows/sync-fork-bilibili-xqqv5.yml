@@ -13,7 +13,7 @@ jobs:
       - name: Checkout ci repository
         uses: actions/checkout@main
 
-      - name: Setup git and gh
+      - name: Setup git
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
