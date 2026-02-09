@@ -25,6 +25,7 @@ jobs:
           # 定义仓库对数组
           repo_pairs=(
             "leonwu85/bv:xqqv5/leonwu85-bv"
+            "cat3399/blbl:xqqv5/blbl-cat39"
             "kkkunny/bilitv:xqqv5/bilitv"
             "Hyper-Beast/bilitv:xqqv5/HyperBeast-BiliTV"
           )
